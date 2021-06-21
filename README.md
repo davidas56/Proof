@@ -18,14 +18,14 @@ La app debe funcionar en Orientación Portrait y Landscape.
 ![image](https://user-images.githubusercontent.com/85710968/122695070-01b15380-d205-11eb-8d8b-7b8d72fe2f88.png)
 Requerimientos técnicos para construir el proyecto.
 Fue mi disponibilidad ya que tenia tiempo el sabado y el domingo me puse a hacer el proyecto con el conocimiento que se y ademas de eso necesite un buen internet y un computador
-ademas de eso necesite los recursos como internet y luz para poder empezar a hacer el proyecto 
-Breve descripción de la responsabilidad de cada capa propuesta.
-1.coloque dos botones con dos imagenes especificando el mapa y las peliculas como se me pedia en el projecto
-2.habilite la parte de api de google y coloque los requisitos que esta me pedia para asi visualizar el mapa en google 
-3. active un servicio de google de geolocalizacion y coloque un boton para que asi se pueda localizar el dispositivo
-4. ya que google tienen muchos servicioss inclui una api en la cual se me otorga las direccion ya el resto fue codigo
-5. coloque en la parte superior que el usuario pueda digitar o colocar un punto el mapa 
-6. del punto anterior despues de colocar el punto en el mapa le va a salir cuanto se tarda dependiendo del tipo de transporte y el estado de las vias 
-7. se habilito una funcion en la cual el usuario pueda ver de forma seguida el estado de la ruta , cuanto tiempo le queda en el trayecto 
-8. la 8 y la 9 no se pudo por problemas del servidor
-10. solo se cambio los modelos y se redimensiono dependiendo de que forma la quiera visualizar el usuario
+ademas de eso necesite los recursos como internet y luz para poder empezar a hacer el proyecto     
+Breve descripción de la responsabilidad de cada capa propuesta.    
+1.coloque dos botones con dos imagenes especificando el mapa y las peliculas como se me pedia en el projecto     
+2.habilite la parte de api de google y coloque los requisitos que esta me pedia para asi visualizar el mapa en google     
+3. active un servicio de google de geolocalizacion y coloque un boton para que asi se pueda localizar el dispositivo      
+4. ya que google tienen muchos servicioss inclui una api en la cual se me otorga las direccion ya el resto fue codigo      
+5. coloque en la parte superior que el usuario pueda digitar o colocar un punto el mapa      
+6. del punto anterior despues de colocar el punto en el mapa le va a salir cuanto se tarda dependiendo del tipo de transporte y el estado de las vias     
+7. se habilito una funcion en la cual el usuario pueda ver de forma seguida el estado de la ruta , cuanto tiempo le queda en el trayecto      
+8. la 8 y la 9 no se pudo por problemas del servidor      
+10. solo se cambio los modelos y se redimensiono dependiendo de que forma la quiera visualizar el usuario       
